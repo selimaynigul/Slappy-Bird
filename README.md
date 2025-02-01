@@ -40,8 +40,8 @@ This is an **enhanced** version of the classic Flappy Bird game, developed in **
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/FlappyBirdEnhanced.git
-   cd FlappyBirdEnhanced
+   git clone https://github.com/selimaynigul/Slappy-Bird.git
+   cd Slappy-Bird
    ```
 2. **Open Unity (Version 2021.3 or newer recommended)**
 3. **Load the Project**:
