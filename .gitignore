@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# But keep these folders
+!Assets/
+!ProjectSettings/
+!Packages/
+
+# Also keep the .gitignore file itself
+!.gitignore
+!README
