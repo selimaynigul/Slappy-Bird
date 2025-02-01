@@ -1,7 +1,5 @@
 # Flappy Bird - Enhanced Edition
 
-![Flappy Bird Enhanced](https://your-image-link.com)
-
 ## 🏆 Overview
 
 This is an **enhanced** version of the classic Flappy Bird game, developed in **Unity** with additional mechanics such as **collectibles, power-ups, dizzy stars, screen shake effects, and vomit animations**. The game features a shop system, difficulty progression, animated UI, and smooth gameplay with polished animations.
